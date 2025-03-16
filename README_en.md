@@ -61,3 +61,7 @@
    pyinstaller --onefile area_calculator.py
    ```
 
+3. **exe download**
+   - [kanye v4.6 and area calculator exe download](https://drive.google.com/drive/folders/17UrETzXa2XQx_Zxlp6kS1Rvkj8ptRYmB?usp=share_link)
+
+
