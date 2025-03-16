@@ -1,7 +1,7 @@
 # masK-driven-Analysis-for-iNverse-fft-Yield-Evaluation
 
 # kanye v4.6
-![alt text](assets/kanye_example.png)
+![alt text](assets/kanye_sample.png)
 ## 개요
 **kanye v4.6**은 이미지(실제 사진 + Inverse FFT 이미지)를 불러와서,  
 1. Inverse FFT 이미지를 임계값(Threshold)으로 이진화하여 특정 영역(픽셀)을 추출  
