@@ -1,7 +1,7 @@
 # masK-driven-Analysis-for-iNverse-fft-Yield-Evaluation  
 
 # kanye v4.6  
-
+![alt text](assets/kanye_sample.png)
 ## Overview  
 **kanye v4.6** is a **Python GUI program** that performs the following operations with an image (actual photo + Inverse FFT image):  
 
