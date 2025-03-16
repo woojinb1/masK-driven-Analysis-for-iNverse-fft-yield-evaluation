@@ -61,4 +61,4 @@
     pyinstaller --onefile area_calculator.py
 
 3. **exe 다운로드**
-    https://drive.google.com/drive/folders/17UrETzXa2XQx_Zxlp6kS1Rvkj8ptRYmB?usp=share_link
+   - [kanye v4.6 실행 파일 다운로드](https://drive.google.com/drive/folders/17UrETzXa2XQx_Zxlp6kS1Rvkj8ptRYmB?usp=share_link)
