@@ -59,3 +59,6 @@
     pip install pyinstaller
     pyinstaller --onefile kanye_v4_6.py
     pyinstaller --onefile area_calculator.py
+
+3. **exe 다운로드**
+    https://drive.google.com/drive/folders/17UrETzXa2XQx_Zxlp6kS1Rvkj8ptRYmB?usp=share_link
