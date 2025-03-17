@@ -224,7 +224,7 @@ def resource_path(relative_path):
     return os.path.join(base_path, relative_path)
 
 root = tk.Tk()
-root.title("kanye v4.6")
+root.title("kan v4.6")
 
 real_image_path = None
 inverse_fft_image_path = None
@@ -270,7 +270,7 @@ description_text = tk.Text(
 description_text.pack()
 
 # 텍스트 추가
-description_text.insert("1.0", "masK-driven Analysis for iNverse fft Yield Evaluation\n")
+description_text.insert("1.0", "masK-driven Analysis for iNverse fft yield evaluation\n")
 description_text.insert("2.0", "This tool analyzes images, detects contours, and calculates crystallized region.\n")
 description_text.insert("3.0", "Made by WJB\n")
 
