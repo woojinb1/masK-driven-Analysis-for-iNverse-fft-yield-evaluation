@@ -1,9 +1,9 @@
-# masK-driven-Analysis-for-iNverse-fft-Yield-Evaluation
+# masK-driven-Analysis-for-iNverse-fft-yield-evaluation
 
-# kanye v4.6
-![alt text](assets/kanye_sample.png)
+# kan v4.6
+![alt text](assets/kan_sample.png)
 ## 개요
-**kanye v4.6**은 이미지(실제 사진 + Inverse FFT 이미지)를 불러와서,  
+**kan v4.6**은 이미지(실제 사진 + Inverse FFT 이미지)를 불러와서,  
 1. Inverse FFT 이미지를 임계값(Threshold)으로 이진화하여 특정 영역(픽셀)을 추출  
 2. DBSCAN 클러스터링을 통해 영역을 분류  
 3. 분류된 영역(클러스터)에 대한 Concave Hull(알파 셰이프)을 구해 넓이를 계산  
@@ -57,8 +57,8 @@
 2. **패키징**
     ```bash
     pip install pyinstaller
-    pyinstaller --onefile kanye_v4_6.py
+    pyinstaller --onefile kan_v4_6.py
     pyinstaller --onefile area_calculator.py
 
 3. **exe 다운로드**
-   - [kanye v4.6 및 area calculator exe 다운로드](https://drive.google.com/drive/folders/17UrETzXa2XQx_Zxlp6kS1Rvkj8ptRYmB?usp=share_link)
+   - [kan v4.6 및 area calculator exe 다운로드](https://drive.google.com/drive/folders/17UrETzXa2XQx_Zxlp6kS1Rvkj8ptRYmB?usp=share_link)
