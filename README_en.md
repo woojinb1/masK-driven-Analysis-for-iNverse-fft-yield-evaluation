@@ -1,9 +1,9 @@
 # masK-driven-Analysis-for-iNverse-fft-Yield-Evaluation  
 
-# kanye v4.6  
-![alt text](assets/kanye_sample.png)
+# kan v4.6  
+![alt text](assets/kan_sample.png)
 ## Overview  
-**kanye v4.6** is a **Python GUI program** that performs the following operations with an image (actual photo + Inverse FFT image):  
+**kan v4.6** is a **Python GUI program** that performs the following operations with an image (actual photo + Inverse FFT image):  
 
 1. Binarizes the Inverse FFT image using a threshold to extract specific regions (pixels).  
 2. Classifies the regions using DBSCAN clustering.  
@@ -57,11 +57,11 @@
 2. **Packaging**  
    ```bash
    pip install pyinstaller
-   pyinstaller --onefile kanye_v4_6.py
+   pyinstaller --onefile kan_v4_6.py
    pyinstaller --onefile area_calculator.py
    ```
 
 3. **exe download**
-   - [kanye v4.6 and area calculator exe download](https://drive.google.com/drive/folders/17UrETzXa2XQx_Zxlp6kS1Rvkj8ptRYmB?usp=share_link)
+   - [kan v4.6 and area calculator exe download](https://drive.google.com/drive/folders/17UrETzXa2XQx_Zxlp6kS1Rvkj8ptRYmB?usp=share_link)
 
 
