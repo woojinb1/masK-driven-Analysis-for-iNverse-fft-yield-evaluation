@@ -62,4 +62,4 @@
    ```
 
 3. **exe download**
-   - [kan v4.6 and area calculator exe download](https://drive.google.com/drive/folders/17UrETzXa2XQx_Zxlp6kS1Rvkj8ptRYmB?usp=share_link)
+   - [kan v4.6 and area calculator exe download](https://github.com/woojinb1/masK-driven-Analysis-for-iNverse-fft-yield-evaluation/releases/tag/v4.6)
