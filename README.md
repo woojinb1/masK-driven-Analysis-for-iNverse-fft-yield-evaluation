@@ -5,6 +5,8 @@
 ## Overview  
 **kan v4.6** is a **Python GUI program** that performs the following operations with an image (actual photo + Inverse FFT image):  
 
+![alt text](assets/Workflow.jpg)
+
 1. Binarizes the Inverse FFT image using a threshold to extract specific regions (pixels).  
 2. Classifies the regions using DBSCAN clustering.  
 3. Computes the Concave Hull (alpha shape) and calculates the area of each classified cluster.  
@@ -13,7 +15,6 @@
 ---
 
 ## Key Features and Workflow  
-
 1. **Image Loading**  
    - **Load Real Image Button**  
      - Loads the real (original) image and saves the path in the global variable `real_image_path`.  
